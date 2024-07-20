@@ -5,4 +5,4 @@ The value ranges for somatic cell count was sourced from an article written by P
 
 
 ## Model Statistics
-ML Model Accuracy for 30 Epochs: 00.00%
+ML Model Accuracy for 250 Epochs: ~81.38%
